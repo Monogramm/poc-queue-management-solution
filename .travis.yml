@@ -27,7 +27,6 @@ script:
 
 notifications:
   email: false
-  slack: ${SLACK_GROUP}:${SLACK_TOKEN}
 
 matrix:
   allow_failures:
