@@ -1,0 +1,7 @@
+{
+  "project": {
+    "name": "poc-queue-management-solution",
+    "description": "POC for a Queue Management Solution application",
+    "version": "0.0.1"
+  }
+}
